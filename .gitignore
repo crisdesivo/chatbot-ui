@@ -1,0 +1,5 @@
+# ignore key.txt
+key.txt
+*.pyc
+readme.pdf
+eddie_bot.py
